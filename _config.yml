@@ -138,3 +138,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://successful-zucchini-c4ef3.netlify.app'
